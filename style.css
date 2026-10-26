@@ -11,4 +11,5 @@ p {
 body {
   background-image: url("IMG_9480.jpg");
   background-size: 100%;
+  scroll-behavior: smooth;
 }
