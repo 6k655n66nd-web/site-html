@@ -3,6 +3,7 @@ h1 {
   background-color: #D3FB09;
   
   border: 4px solid brown;
+  text-shadow: #C30909 1px 0 10px;
 }
 p {
   color: red;
