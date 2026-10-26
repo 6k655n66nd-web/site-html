@@ -7,3 +7,4 @@ h1 {
 p {
   color: red;
 }
+background: content-box radial-gradient(crimson, skyblue);
