@@ -8,5 +8,6 @@ p {
   color: red;
 }
 body {
-background-image: url("IMG_9480.jpg");
+  background-image: url("IMG_9480.jpg");
+  background-size: cover;
 }
