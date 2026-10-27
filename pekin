@@ -3,11 +3,11 @@
 		<title>Pekin</title>
 		<link rel="stylesheet" href="pekinstyle.css">
 	</head>
-	<body>
-		<h1>Beijing</h1>
-		<p>Je vais présenter mon sejours en chine</p>
-		<p>Je suis restée en Chine pendant 1 an pour mes études pendant ma L3 dans la ville de Jinan dans le Shandong, j'ai pu y approfondir mon chinois et me faire plein d'amis</p>
-		<p>Je suis arrivée en Chine le 24 août 2024, j'ai eut du mal à m'adapter au début mais j'ai vite réussi à m'y faire.</p>
-		<p>Sur ce site je vais vous raconter mes voyages pendant cette superbe année ! </p>
-	</body>
+		<body>
+			<h1>Beijing</h1>
+				<p>Je vais présenter mon sejours en chine</p>
+				<p>Je suis restée en Chine pendant 1 an pour mes études pendant ma L3 dans la ville de Jinan dans le Shandong, j'ai pu y approfondir mon chinois et me faire plein d'amis</p>
+				<p>Je suis arrivée en Chine le 24 août 2024, j'ai eut du mal à m'adapter au début mais j'ai vite réussi à m'y faire.</p>
+				<p>Sur ce site je vais vous raconter mes voyages pendant cette superbe année ! </p>
+		</body>
 </html>
