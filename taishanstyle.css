@@ -7,3 +7,9 @@ h1 {
 p {
   color: red;
 }
+body {
+  background-image: url("IMG_0243.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  scroll-behavior: smooth;
+}
