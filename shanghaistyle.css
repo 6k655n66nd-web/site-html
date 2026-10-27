@@ -8,8 +8,7 @@ p {
   color: red;
 }
 body {
-  background-image: url("IMG_9480.jpg");
-  background-size: 100%;
-  background-repeat: no-repeat;
-  scroll-behavior: smooth;
+ .degrade-espacement-auto {
+  background: linear-gradient(red, yellow, blue, orange);
 }
+  
